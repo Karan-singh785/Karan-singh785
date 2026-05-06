@@ -78,7 +78,7 @@
 <h3 align="center">🔥 Currently Building:</h3>
 
 <p align="center">
- <a href="https://github.com/Karan-singh785/HR-Analytics-Dashboard">HR Analytics Dashboard</a> •
+ <a href="https://github.com/Karan-singh785/Karan-singh785">HR Analytics Dashboard</a> •
   <a href="https://github.com/Karan-singh785/Sales-Analysis-Dashboard">Sales Analysis Dashboard</a>
 </p>
 
